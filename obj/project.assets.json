@@ -6969,7 +6969,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.ApplicationInsights.AspNetCore >= *"
+      "Microsoft.ApplicationInsights.AspNetCore >= 2.15.0"
     ]
   },
   "packageFolders": {
@@ -6978,11 +6978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\azure\\azure.csproj",
+      "projectUniqueName": "C:\\azure\\azure.csproj",
       "projectName": "azure",
-      "projectPath": "c:\\azure\\azure.csproj",
+      "projectPath": "C:\\azure\\azure.csproj",
       "packagesPath": "C:\\Users\\lucy\\.nuget\\packages\\",
-      "outputPath": "c:\\azure\\obj\\",
+      "outputPath": "C:\\azure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7009,7 +7009,7 @@
         "dependencies": {
           "Microsoft.ApplicationInsights.AspNetCore": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[2.15.0, )"
           }
         },
         "imports": [

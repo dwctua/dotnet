@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btTGP/61q0BrhIrKoC9fbMTebAyPWYfr4i+U2hMoC4rjW6uE2VCKW5ZJnN0lvfiV/39Pr82uZ/vgUA64Qv5s1w==",
+  "dgSpecHash": "pZTv7R7WIK71XPV+BerivOjP2XQ11hvW+BZLcVcnhDloDnb/9a4TeuRmGnzR7wq7ySpgcAHgeLcCL4rz+AqKyw==",
   "success": true,
-  "projectFilePath": "c:\\azure\\azure.csproj",
+  "projectFilePath": "C:\\azure\\azure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucy\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\microsoft.applicationinsights.2.15.0.nupkg.sha512",
     "C:\\Users\\lucy\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.15.0\\microsoft.applicationinsights.aspnetcore.2.15.0.nupkg.sha512",
